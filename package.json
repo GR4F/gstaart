@@ -1,5 +1,5 @@
 {
-  "name": "@staart/api",
+  "name": "@GR4F/gstaart",
   "template": "staart/api",
   "version": "4.0.9",
   "description": "SaaS backend framework with users, payments, APIs, and more",
